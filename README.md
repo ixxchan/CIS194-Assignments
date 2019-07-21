@@ -6,3 +6,5 @@ The author of the second link provides good reasons why he recommends this cours
 
 Before, I have read [Learn You a Haskell](http://learnyouahaskell.com/), which lacks practice problems, and that's why I follow CIS 194 course.
 
+To check my solutions, I looked at https://github.com/bschwb/cis194-solutions for reference.
+
